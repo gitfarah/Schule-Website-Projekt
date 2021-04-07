@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T12:45:23.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="EI_W0fJwDGpM4h6Z6lqV" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-07T13:51:21.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="oq_3GK6q1OZf377kETjw" version="14.5.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1220" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
         <mxCell id="1Qhtr-ZFEwMXt_LMw7JV-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="1Qhtr-ZFEwMXt_LMw7JV-8" vertex="1">
           <mxGeometry x="5" y="130" width="10" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="1Qhtr-ZFEwMXt_LMw7JV-34" value="send button" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" parent="1Qhtr-ZFEwMXt_LMw7JV-8" target="1Qhtr-ZFEwMXt_LMw7JV-4" edge="1">
+        <mxCell id="1Qhtr-ZFEwMXt_LMw7JV-34" value="send E-Mail" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;" parent="1Qhtr-ZFEwMXt_LMw7JV-8" target="1Qhtr-ZFEwMXt_LMw7JV-4" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="10" y="490" as="sourcePoint" />
             <mxPoint x="70" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1Qhtr-ZFEwMXt_LMw7JV-9" value="Click Button" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=-0.076;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Qhtr-ZFEwMXt_LMw7JV-8" target="1Qhtr-ZFEwMXt_LMw7JV-11" edge="1">
+        <mxCell id="1Qhtr-ZFEwMXt_LMw7JV-9" value="open E-MailForm" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;entryX=-0.076;entryY=0.169;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Qhtr-ZFEwMXt_LMw7JV-8" target="1Qhtr-ZFEwMXt_LMw7JV-11" edge="1">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="90" y="270" as="sourcePoint" />
             <mxPoint x="180" y="270" as="targetPoint" />
